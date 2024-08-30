@@ -277,6 +277,7 @@ const menuGroups = [
         children: [
           { label: "Alerts", route: "/ui/alerts" },
           { label: "Buttons", route: "/ui/buttons" },
+          { label: "Otros components", route: "/ui/otros" },
         ],
       },
       {
